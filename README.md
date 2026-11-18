@@ -1,5 +1,5 @@
 ﻿
-# Industrial Cost & OEE Analytics 🚀
+# Industrial Analytics 🚀
 
 Projeto desenvolvido para demonstrar competências em **Análise de Dados Industriais, Custos e Integração entre Produção e Finanças**. O objetivo da aplicação é traduzir indicadores de chão de fábrica em impacto financeiro direto para a gestão.
 
